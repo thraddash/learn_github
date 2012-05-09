@@ -1,4 +1,8 @@
 learn_github
 ============
 
-yo test this out
+vacation plans
+
+buy ticket
+pack bags
+get immunization shots
