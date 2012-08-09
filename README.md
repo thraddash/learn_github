@@ -1,9 +1,5 @@
 learn_github
 ============
 
-vacation plans
+Notes:
 
-buy ticket
-pack bags
-get immunization shots
-get sunscreen
